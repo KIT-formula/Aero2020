@@ -1,4 +1,4 @@
-# Windows image file caches
+﻿# Windows image file caches
 Thumbs.db
 ehthumbs.db
 
@@ -83,3 +83,6 @@ Temporary Items
 *.CATPart
 *.CATProduct
 全体/new 10inch/basemodel/allmodel 2019.stp
+
+#test
+*.aaa
